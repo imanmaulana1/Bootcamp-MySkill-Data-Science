@@ -1,0 +1,13 @@
+CREATE TABLE vendor_2 (
+vendor_id int,
+vendor_name varchar(255),
+vendor_type varchar(255),
+region varchar(255),
+cooperation_date date,
+primary key (vendor_id)
+);
+
+INSERT INTO vendor_2 VALUES
+(3, 'PackaNew', 'Ekspedisi', 1, '2022-03-01'),
+(4, 'Herlin', 'Ekspedisi', 2, '2021-03-01'),
+(5, 'Mota', 'Ekspedisi', 5, '2022-04-01');

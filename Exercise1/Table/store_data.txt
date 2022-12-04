@@ -1,0 +1,18 @@
+CREATE TABLE region (
+  store_city_id int,
+  region varchar(255),
+  primary key (store_city_id)
+);
+
+INSERT INTO region (store_city_id,region)
+VALUES
+  (1,'Sumatera'),
+  (2,'Yogyakarta'),
+  (3,'Jawa Timur'),
+  (4,'Sulawesi'),
+  (5,'Bali'),
+  (6,'Jawa Barat'),
+  (7,'Kalimantan'),
+  (8,'Jawa Tengah'),
+  (9,'Bandung'),
+  (10,'Jakarta');
