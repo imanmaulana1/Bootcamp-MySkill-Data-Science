@@ -1,6 +1,6 @@
 # Bootcamp-MySkill-Data-Science
 
-Projek akhir membuat publikasi di medium mengenai hal-hal apa saja yang telah dipelajar selama mengikuti bootcamp.
+Projek akhir membuat publikasi di medium mengenai hal-hal apa saja yang telah dipelajari selama mengikuti bootcamp.
 
 SQL - https://medium.com/p/999d3411c362
 
